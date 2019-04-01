@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("Test my application  :");
         System.out.println("Test my application 2 :");
+        System.out.println("Test my application apk :");
     }
 }
